@@ -1,0 +1,13 @@
+package com.demo;
+import java.util.Scanner;
+public class HariHara {
+
+	public static void main(String[] args) {
+		int ch;
+		Scanner read = new Scanner(System.in);
+		ch=read.nextInt();
+		char value=(char)ch;
+		System.out.print(value);
+	}
+
+}

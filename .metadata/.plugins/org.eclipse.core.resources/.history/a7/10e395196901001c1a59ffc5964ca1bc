@@ -1,0 +1,10 @@
+package Condinalstatement;
+
+public class Greastnumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
